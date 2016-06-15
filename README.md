@@ -8,7 +8,7 @@ Then i proposed to realize a research how to do it, and then i found haraka.
 This plugin is part of a biggest project to create a little service to do this task
 
 ##How to run it?
-* Install nojejs
+* Install nodejs
 * Install haraka
 * Clone the project
 * Configure the domain property in the verp_domain.ini file
